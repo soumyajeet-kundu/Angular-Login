@@ -1,2 +1,0 @@
-com/app/registration/RegistrationApplication.java
- com.app.registration.RegistrationApplication

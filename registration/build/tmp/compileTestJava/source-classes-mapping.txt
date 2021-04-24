@@ -1,2 +1,0 @@
-com/app/registration/RegistrationApplicationTests.java
- com.app.registration.RegistrationApplicationTests
